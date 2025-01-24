@@ -63,9 +63,9 @@ const d1 = new Demo("Demo1");
 d1.greet();
 console.log(d1.name);
 
-//! Optional
+// //! Optional
 
-interface Animal {
-  move: string;
-  // name?: string;
-}
+// interface Animal {
+//   move: string;
+//   // name?: string;
+// }
